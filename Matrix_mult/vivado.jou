@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Dec 21 12:51:36 2018
+# Process ID: 20996
+# Current directory: C:/Users/Bruk/AppData/Roaming/Xilinx/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4336
+# Log file: C:/Users/Bruk/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file: C:/Users/Bruk/AppData/Roaming/Xilinx/Vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Bruk/Documents/xilinx/Matrix_mult/Matrix_mult.xpr
+update_compile_order -fileset sources_1
+archive_project C:/Users/Bruk/Documents/xilinx/Matrix_mult_xilinx.xpr.zip -temp_dir C:/Users/Bruk/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-20996-DESKTOP-7GP8L4K -force -include_local_ip_cache
+archive_project C:/Users/Bruk/Documents/xilinx/Matrix_mult.xpr.zip -temp_dir C:/Users/Bruk/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-20996-DESKTOP-7GP8L4K -force -include_local_ip_cache
+archive_project C:/Users/Bruk/Documents/xilinx/Matrix_mult.xpr.zip -temp_dir C:/Users/Bruk/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-20996-DESKTOP-7GP8L4K -force
+archive_project C:/Users/Bruk/Documents/xilinx/Matrix_mult.xpr.zip -temp_dir C:/Users/Bruk/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-20996-DESKTOP-7GP8L4K -force -exclude_run_results
